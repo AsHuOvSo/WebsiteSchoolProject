@@ -1,0 +1,3 @@
+function buttonHello() {
+	alert("Hello!")
+}
